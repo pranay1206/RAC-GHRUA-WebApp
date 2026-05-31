@@ -175,7 +175,7 @@ export default function Signup() {
                         </a>
                         and
                         <a
-                            href="https://instagram.com/ridam_27"
+                            href="https://instagram.com/pranay.1206"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="font-medium text-gray-800 hover:text-red-600 transition"
